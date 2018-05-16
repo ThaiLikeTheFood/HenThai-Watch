@@ -1,6 +1,6 @@
 {
 "name": "Test"
-"description": "test"
+"description": "test",
 "version": "0.0.0",
 "main": "app.js",
 "scripts": {
