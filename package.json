@@ -2,9 +2,9 @@
 "name": "HenThai Watch",
 "description": "My own personal bot that im trying to make stay online",
 "version": "1.0.0",
-"main": "app.js",
+"main": "bot.js",
 "scripts": {
-  "start": "node app.js"
+  "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "11.3.2",
