@@ -85,4 +85,4 @@ bot.on('ready' , () => {
   console.log('Bot Online and active.')
 });
 
-bot.login(process.env.'NDQ1ODIyMjM3MTU3NzUyODMy.DdwD2A.WU58R3K9pYinBj83BogLKhnIIUE');
+bot.login(process.env.'NDQ1ODIyMjM3MTU3NzUyODMy.Dd5plQ.ppM-4nCxsoFrIeFvkunkSpGvADU');
